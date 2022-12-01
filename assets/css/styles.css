@@ -11,11 +11,11 @@ body,html{
 }
 
 .navbar{
-    background-color: black;
+    background-color: white;
 }
 
 .main-text{
-    color:  white;
+    color:  white; 
 }
 
 h4{
@@ -26,4 +26,10 @@ h4{
     border: 2px;
     border-style: solid;
     border-color: lightgrey;
+}
+
+@media (max-width: 700px) {
+    .navbar{
+        background-color: lightgrey
+    }
 }
