@@ -1,0 +1,19 @@
+body,html{
+    margin:0;
+    width:100%;
+  }
+  html{
+      background-color: black;
+  }
+
+.bg-website{
+    background-color: black;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.main-text{
+    color:  white;
+}
