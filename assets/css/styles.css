@@ -17,3 +17,13 @@ body,html{
 .main-text{
     color:  white;
 }
+
+h4{
+    text-align: center;
+}
+
+.current-img{
+    border: 2px;
+    border-style: solid;
+    border-color: lightgrey;
+}
